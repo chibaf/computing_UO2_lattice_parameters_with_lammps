@@ -1,5 +1,5 @@
-# computing_lattice_parameters_with_lammps
-lattice_parameters depend on temperatures
+# computing_UO2_lattice_parameters_with_lammps
+lattice parameter depends on temperature
 
 
 usage(1): python3 fcc111.py > data.fcc111 #generate UO2 lattice
