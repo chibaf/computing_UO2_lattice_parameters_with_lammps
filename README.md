@@ -1,6 +1,7 @@
 # computing_UO2_lattice_parameters_with_lammps
 lattice parameter depends on temperature
 
+(We employ Ubuntu 22.04)
 
 usage(1): python3 fcc111.py > data.fcc111 #generate UO2 lattice
 
