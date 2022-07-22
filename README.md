@@ -5,13 +5,15 @@ lattice parameter depends on temperature
 
 usage(1): python3 fcc111.py > data.fcc111 #generate UO2 lattice
 
+<img width="791" alt="fcc111" src="https://user-images.githubusercontent.com/1296728/180451685-89ae3955-a1c9-4edc-8bca-c8046fef4ec6.png">
+
 usage(2): python3 lattice.py # computing UO2 lattices for temperatures with lammps
 
 usage(3): python3 lattice_p.py # computing UO2 lattice parameters for temperatures from lammps logs
 
-the document for programs above: UO2_lattice_parameters.pdf
 
-<img width="791" alt="fcc111" src="https://user-images.githubusercontent.com/1296728/180451685-89ae3955-a1c9-4edc-8bca-c8046fef4ec6.png">
+
+the document for programs above: UO2_lattice_parameters.pdf
 
 
 ref:
