@@ -13,7 +13,8 @@ usage(3): python3 lattice_p.py # computing UO2 lattice parameters for temperatur
 
 the document for programs above: UO2_lattice_parameters.pdf
 
-![image](https://user-images.githubusercontent.com/1296728/179402517-9dc588bd-6e53-4293-9021-f0bd6042b51b.png)
+<img width="791" alt="fcc111" src="https://user-images.githubusercontent.com/1296728/180451685-89ae3955-a1c9-4edc-8bca-c8046fef4ec6.png">
+
 
 ref:
 
