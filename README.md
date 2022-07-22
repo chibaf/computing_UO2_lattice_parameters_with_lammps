@@ -11,6 +11,7 @@ usage(2): python3 lattice.py # computing UO2 lattices for temperatures with lamm
 
 usage(3): python3 lattice_p.py # computing UO2 lattice parameters for temperatures from lammps logs
 
+<img width="640" alt="graf-UO2-latticeーparameters" src="https://user-images.githubusercontent.com/1296728/180452858-867f77ce-55b1-4240-a14d-6cf247b64c34.png">
 
 
 the document for programs above: UO2_lattice_parameters.pdf
