@@ -5,8 +5,6 @@ lattice parameter depends on temperature
 
 usage(1): python3 fcc111.py > data.fcc111 #generate UO2 lattice
 
-<img width="699" alt="uo2-fcc111-lattice" src="https://user-images.githubusercontent.com/1296728/180440235-d77437bc-f279-4166-8332-38aac571fd13.png">
-
 usage(2): python3 lattice.py # computing UO2 lattices for temperatures with lammps
 
 usage(3): python3 lattice_p.py # computing UO2 lattice parameters for temperatures from lammps logs
